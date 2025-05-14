@@ -42,4 +42,16 @@ A miniature shell implementation supporting built-in commands, environment varia
 ### 📁 [Philosophers](https://github.com/aguinea1/Philosophers)  
 An exploration of concurrency and synchronization, simulating the classic dining philosophers problem using threads and mutexes.
 
+### 🔹 [CPP Module 00](https://github.com/aguinea1/CPP00)  
+The first module in  C++.  
+It introduces essential concepts such as classes, private attributes, public methods, object instantiation, and basic stream handling.  
+Perfect for understanding the shift from C to C++ through a more structured and object-oriented approach.
+
+---
+
+## 📫 Contact
+
+- [Linkedin](https://www.linkedin.com/in/aitor-guinea-961635348/)
+- 📧 [guineaitor36@gmail.com](mailto:guineaitor36@gmail.com)
+
 ---
